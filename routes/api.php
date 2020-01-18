@@ -53,3 +53,4 @@ Route::middleware('auth:api')-> group(function (){
     Route::post('comments/posts/{id}' , 'Api\CommentController@store');
 });
 
+// heroku
