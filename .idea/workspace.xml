@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4daa9a1-f141-4fb9-98ad-fdbc76d3cd7c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/procfile" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -151,7 +149,7 @@
       <workItem from="1573631060651" duration="2920000" />
       <workItem from="1574056916163" duration="869000" />
       <workItem from="1579389241578" duration="457000" />
-      <workItem from="1579390555277" duration="336000" />
+      <workItem from="1579390555277" duration="462000" />
     </task>
     <task id="LOCAL-00001" summary="proc">
       <created>1579389674118</created>
